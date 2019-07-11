@@ -1,4 +1,4 @@
-package com.practice.Array.Challange;
+package com.practice.Array.Challange.exercise;
 
 import java.util.Scanner;
 
